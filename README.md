@@ -40,7 +40,7 @@ Bevat de opmaak van de webpagina. Enkele belangrijke stijlen zijn:
 
 1. **Clone de repository:**
     ```sh
-    git clone https://github.com/FEHBK
+    git clone https://github.com/FEHBK/FEHBK
     ```
 
 2. **Open `index.html` in een webbrowser:**
